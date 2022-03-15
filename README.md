@@ -1,4 +1,4 @@
-# Math Mania
+# Calculator Application
 What is learning a new programming languege without yee' ol' faithful calulator application? This is probably my fifth, if not more, calculator that I've created - the only difference is that this one is made with Android and Java. ☕😄 
 
 This super-cool and unique calculator application allows a user to add, subtract, multiply, divide, clear all, backtrack, and view the results of their sums - hm, just like any normal office calculator. Everything was made by me except the icon. Easy peasy! 😁
